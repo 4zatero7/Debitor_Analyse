@@ -1,22 +1,28 @@
 # Debitor Analyse
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyMjBlMDgtZjExNS00YTA1LTgwMjgtODRmNmRkOGYzZTc1IiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9)
 
-Dieses Power BI-Projekt, ist eine Analyse für die Personalabteilung eines Unternehmens, bei der ich die Belegschaft, Gehälter und den Standort der Mitarbeiter analysiere. #PowerBI
 
 ## 📊 Dashboard 
-Sie können auf das im Power BI erstellte Dashboard über den folgenden Link zugreifen 👉🏼📊 Dashboard
+Sie können auf das interaktive Dashboard über den folgenden Link zugreifen 👉🏼 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyMjBlMDgtZjExNS00YTA1LTgwMjgtODRmNmRkOGYzZTc1IiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9)
 
-## 🪟 Übersicht 
-In diesem Projekt, das mit Power BI für die FP20 Analytics April 2024 Challenge durchgeführt wurde, konzentriere ich mich auf die Vorbereitung und Bereinigung der Daten und teile Tipps für die Arbeit mit großen Datensätzen in Power BI.
+## 🗃️ Bericht herunterladen
+Sie können den Bericht als pbix-Datei herunterladen. Kontaktieren Sie mich bitte hierfür unter folgender E-Mail: 🗃️ azat.erol@hotmail.com
 
-Unter Nutzung der robusten Fähigkeiten von Power BI habe ich mich darauf eingelassen, den umfassenden Datensatz zu bereinigen, zu modellieren, zu erkunden und zu visualisieren, um kritische Erkenntnisse zu gewinnen.
+## 🪟 Übersicht
+In diesem Projekt, das mit Power BI durchgeführt wurde, analysieren Sie die finanzielle Performance der Debitoren eines Unternehmens. Der Bericht enthält detaillierte Visualisierungen, die Einblicke in Zahlungseingänge, Forderungen und Rentabilitätskennzahlen über verschiedene Geschäftsbereiche hinweg bieten.
 
-## 🗃️ Datensatz
-Der Datensatz besteht aus einer Datei, die Sie auf Spanisch und Englisch herunterladen können:
+Durch die Nutzung der robusten Fähigkeiten von Power BI umfasste das Projekt Datenbereinigung, Modellierung, Exploration und Visualisierung, um wichtige Erkenntnisse zu gewinnen, die die Entscheidungsfindung unterstützen.
 
-## 🖇️ Modell
-Die Datenmodellierungsphase beinhaltete die Erstellung eines relationalen Datenmodells, das die Beziehungen zwischen den Mitarbeitern, Abteilungen, Geschäftseinheiten, Jobtiteln, Ethnien und Standorten widerspiegelt.
+## 🖇️ Modell 
+Die Datenmodellierungsphase umfasste die Erstellung eines relationalen Datenmodells, das die Beziehungen zwischen Zahlungseingängen, Forderungen, Geschäftsbereichen und Finanzkennzahlen widerspiegelt. ModelView
 
-## ❓ Schlüsselfragen, die das Projekt beantwortet
-✅ 1. Wie vielfältig ist die Belegschaft in Bezug auf Geschlecht, Ethnie und Alter? ✅ 2. Gibt es eine Korrelation zwischen Gehaltsstufen, Abteilungen und Jobtiteln? ✅ 3. Wie sieht die geografische Verteilung der Belegschaft aus? ✅ 4. Wie ist der Trend der Mitarbeiterbindungsrate jährlich? ✅ 5. Wie ist die Mitarbeiterbindungsrate in Bezug auf Geschlecht, Ethnie und Alter? ✅ 6. Welche Geschäftseinheit hatte die höchste und niedrigste Mitarbeiterbindungsrate? ✅ 7. Welche Geschäftseinheit und Abteilung zahlten jährlich die meisten und wenigsten Boni? ✅ 8. Wie sieht der jährliche historische Bonustrend aus? Können wir neuen Mitarbeitern einige Statistiken zeigen? ✅ 9. Wie sieht die Lohngerechtigkeit in Bezug auf Geschlecht, Ethnie und Alter aus? ✅ 10. Wie ist die Mitarbeiterfluktuationsrate (z.B. monatlich, vierteljährlich, jährlich) seit 2017?
+## ❓ Schlüsselfragen, die das Projekt beantwortet 
+✅ 1. Wie hoch sind die gesamten Zahlungseingänge, die von jedem Geschäftsbereich generiert werden? <br> 
+✅ 2. Wie vergleichen sich die Forderungen in den verschiedenen Geschäftsbereichen?<br> 
+✅ 3. Was ist der Break-even-Punkt des Unternehmens und wie steht er im Verhältnis zu den aktuellen Gewinnmargen?<br> 
+✅ 4. Was sind die wichtigsten Finanzkennzahlen wie EBIT-Marge, Bruttomarge und Nettogewinnmarge und wie haben sie sich im Laufe der Zeit entwickelt? <br> 
+✅ 5. Wie variieren die Forderungen nach Monat und Geschäftsbereich? <br> 
+✅ 6. Welcher Geschäftsbereich hat den höchsten Nettogewinn? <br> 
+✅ 7. Wie wirken sich Zinsen und Steuern auf die Rentabilität des Unternehmens aus? <br> 
+✅ 8. Wie vergleicht sich die finanzielle Performance von Monat zu Monat? <br> 
+✅ 9. Wie entwickeln sich die finanziellen Kennzahlen wie Zahlungseingänge, Forderungen und Bruttogewinn im Laufe des Jahres?
