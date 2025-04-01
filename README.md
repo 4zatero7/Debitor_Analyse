@@ -1,4 +1,6 @@
-# Personal-HR_Analyse
+# Debitor Analyse
+
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyMjBlMDgtZjExNS00YTA1LTgwMjgtODRmNmRkOGYzZTc1IiwidCI6IjlmZjhiOTdlLTFkYzMtNGQ0ZC1iZTU0LTA4ZDk1ZTEzZDcwMyJ9)
 
 Dieses Power BI-Projekt, ist eine Analyse für die Personalabteilung eines Unternehmens, bei der ich die Belegschaft, Gehälter und den Standort der Mitarbeiter analysiere. #PowerBI
 
