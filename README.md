@@ -1,5 +1,12 @@
 # Debitor Analyse
 
+Diese Analyse bietet eine detaillierte Untersuchung der finanziellen Performance der Debitoren eines Unternehmens und konzentriert sich dabei auf wichtige Finanzkennzahlen wie Zahlungseingänge, Forderungen und Rentabilität. #PowerBI
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://www.linkedin.com/in/azat-erol/" target="_blank" title="Zu LinkedIn Seite von Azat Erol wechseln">
+        <img src="https://github.com/4zatero7/Debitor_Analyse/blob/main/httpswww.linkedin.cominazat-erol.png?raw=true" alt="ss" width="500"/>
+    </a>
+</div>
 
 
 ## 📊 Dashboard 
@@ -14,7 +21,8 @@ In diesem Projekt, das mit Power BI durchgeführt wurde, analysieren Sie die fin
 Durch die Nutzung der robusten Fähigkeiten von Power BI umfasste das Projekt Datenbereinigung, Modellierung, Exploration und Visualisierung, um wichtige Erkenntnisse zu gewinnen, die die Entscheidungsfindung unterstützen.
 
 ## 🖇️ Modell 
-Die Datenmodellierungsphase umfasste die Erstellung eines relationalen Datenmodells, das die Beziehungen zwischen Zahlungseingängen, Forderungen, Geschäftsbereichen und Finanzkennzahlen widerspiegelt. ModelView
+Die Datenmodellierungsphase umfasste die Erstellung eines relationalen Datenmodells, das die Beziehungen zwischen Zahlungseingängen, Forderungen, Geschäftsbereichen und Finanzkennzahlen widerspiegelt. <br>
+![ModelView](https://github.com/4zatero7/Debitor_Analyse/blob/main/Screenshot%202025-04-01%20102522.png?raw=true)
 
 ## ❓ Schlüsselfragen, die das Projekt beantwortet 
 ✅ 1. Wie hoch sind die gesamten Zahlungseingänge, die von jedem Geschäftsbereich generiert werden? <br> 
